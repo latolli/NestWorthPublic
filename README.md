@@ -67,4 +67,6 @@ NestWorth is designed around a few simple principles:
 
 ---
 
+NOTE: This repository only contains some of the source code for privacy reasons. If you want access to the full code, send me a message.
+
 Built with ❤️ using Kotlin and Jetpack Compose.
