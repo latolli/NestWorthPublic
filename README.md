@@ -56,32 +56,6 @@ The app is centered around three main areas:
 | **Assets** | Track assets and liabilities that make up your net worth |
 | **History** | Review previously recorded income and expenses |
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Android Studio
-- Android SDK
-- A compatible Android device or emulator
-- JDK version required by the project's Gradle/Android configuration
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/NestWorth.git
-   cd NestWorth
-   ```
-
-2. Open the project in Android Studio.
-
-3. Let Gradle sync and download the required dependencies.
-
-4. Run the app on an Android emulator or connected device.
-
-> Replace `YOUR_USERNAME/NestWorth` with the actual GitHub repository URL.
-
 ## 🎯 Project Goals
 
 NestWorth is designed around a few simple principles:
@@ -90,37 +64,6 @@ NestWorth is designed around a few simple principles:
 - **Make progress visible** — important financial metrics should be easy to understand.
 - **Focus on net worth** — income and expenses are useful, but long-term wealth is the bigger picture.
 - **Make consistency rewarding** — milestones and trophies help turn financial tracking into a habit.
-
-## 🗺️ Roadmap
-
-Potential improvements for future versions include:
-
-- [ ] Detailed savings-rate charts
-- [ ] Net-worth history and trend charts
-- [ ] Recurring income and expenses
-- [ ] Budgeting and spending categories
-- [ ] More detailed asset and liability breakdowns
-- [ ] Custom financial goals
-- [ ] Export/import of financial data
-- [ ] Backup and restore
-- [ ] Dark theme refinements
-- [ ] Additional financial milestones and achievements
-
-## 🤝 Contributing
-
-Contributions, ideas, and feedback are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Test the app.
-5. Open a pull request with a clear description of the changes.
-
-## 📄 License
-
-Add your preferred open-source license here.
-
-For example, if this project uses the MIT License, add a `LICENSE` file and update this section accordingly.
 
 ---
 
